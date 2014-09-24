@@ -35,4 +35,12 @@ When is an object a candidate for garbage collection?
 
 > Try again - how does garbage collection work?
 
+What is the default garbage collector in Java 7?
+- [ ] Parallel collector
+- [ ] G1 collector
+- [ ] Serial collector
+- [x] Concurrent Mark Sweep collector (CMS)
+
+> Try again - what is current, and what is the new default?
+
 ---
